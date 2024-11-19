@@ -1,0 +1,68 @@
+name: Clone Public Repository Workflow
+
+on:
+  # Run every day at 01:00 PM UTC 
+  # 国际时间晚上00:00点
+  # 北京时间早上09:00点
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+    
+  job-public-repo-ubuntu:
+    env:
+      Owner: 'Loyalsoldier'
+      Branch: 'release'
+      Repository: 'surge-rules'
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Clone Repo"
+        uses: actions/checkout@v4
+        with:
+          repository: 'TaroCats/Quantumult'
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "Clone Hackl0us GeoIP"
+        uses: GuillaumeFalourd/clone-github-repo-action@main
+        with:
+          depth: 1
+          owner: 'Hackl0us'
+          branch: 'release'
+          repository: 'GeoIP2-CN'
+
+      - name: "Clone Loyalsoldier Rule"
+        uses: GuillaumeFalourd/clone-github-repo-action@main
+        with:
+          depth: 1
+          owner: 'Loyalsoldier'
+          branch: 'release'
+          repository: 'surge-rules'
+
+      - name: "Clone blackmatrix7 Rule"
+        uses: GuillaumeFalourd/clone-github-repo-action@main
+        with:
+          depth: 1
+          owner: 'blackmatrix7'
+          branch: 'master'
+          repository: 'ios_rule_script'
+
+      - name: "Visit And Commit"
+        run: |
+          ls -la
+          git config user.name TaroCats
+          git config user.email etsy@live.com
+          git pull --rebase
+
+          mkdir --parents ./Hackl0us/ && rm -rf ./Hackl0us/* &&  mv ./GeoIP2-CN/* ./Hackl0us/ &&  rm -rf ./GeoIP2-CN;
+          mkdir --parents ./Loyalsoldier/ && rm -rf ./Loyalsoldier/* && mv ./surge-rules/* ./Loyalsoldier/ &&  rm -rf ./surge-rules;
+          mkdir --parents ./blackmatrix7/ && rm -rf ./blackmatrix7/* && mv ./ios_rule_script/* ./blackmatrix7/ && rm -rf ./ios_rule_script;
+
+          if [ -z "$(git status --porcelain ./)" ]; then
+            echo "nothing to update."
+          else
+            git add .
+            git commit -m "Daily sync rules"
+            git push
+          fi
+          
