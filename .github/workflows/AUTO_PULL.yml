@@ -51,7 +51,7 @@ jobs:
         run: |
           ls -la
           git config user.name TaroCats
-          git config user.email etsy@live.com
+          git config user.email ${{ secrets.EMAIL }}
           git pull --rebase
 
           mkdir --parents ./Hackl0us/ && rm -rf ./Hackl0us/* &&  mv ./GeoIP2-CN/* ./Hackl0us/ &&  rm -rf ./GeoIP2-CN;
