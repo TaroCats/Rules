@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-30 02:12:31
+# UPDATED: 2026-04-12 02:12:52
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6588
+# DOMAIN-SUFFIX: 6595
 # IP-CIDR: 97
 # USER-AGENT: 8
-# TOTAL: 6728
+# TOTAL: 6735
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -335,10 +335,10 @@
 .animecrazy.net
 .animeshippuuden.com
 .aniscartujo.com
-.annas-archive.in
-.annas-archive.li
+.annas-archive.gd
+.annas-archive.gl
 .annas-archive.org
-.annas-archive.pm
+.annas-archive.pk
 .annas-archive.se
 .annatam.com
 .anobii.com
@@ -409,6 +409,7 @@
 .appsto.re
 .aptoide.com
 .arcgis.com
+.archive-it.org
 .archive.fo
 .archive.is
 .archive.li
@@ -1240,6 +1241,7 @@
 .cpu-monkey.com
 .cq99.us
 .crackle.com
+.crashlytics.com
 .crazypool.org
 .crazys.cc
 .crazyshit.com
@@ -1465,6 +1467,7 @@
 .dmm.com
 .dns-dns.com
 .dns-stuff.com
+.dns.sb
 .dns04.com
 .dns05.com
 .dns1.us
@@ -1484,6 +1487,7 @@
 .doctorvoice.org
 .documentingreality.com
 .dogfartnetwork.com
+.doh.sb
 .dojin.com
 .dok-forum.net
 .dolc.de
@@ -1501,6 +1505,7 @@
 .doosho.com
 .doourbest.org
 .dorjeshugden.com
+.dot.sb
 .dotgov.gov
 .dotplane.com
 .dotsub.com
@@ -3561,6 +3566,7 @@
 .missav.com
 .missav.ws
 .mist.vip
+.mistral.ai
 .mit.edu
 .mitao.com.tw
 .mitbbs.com
@@ -4097,6 +4103,7 @@
 .orzistic.org
 .osfoora.com
 .osha.gov
+.osmand.net
 .osxdaily.com
 .otcbtc.com
 .otnd.org

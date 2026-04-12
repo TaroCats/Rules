@@ -184,11 +184,9 @@ DOMAIN-SUFFIX,angela-merkel.de
 DOMAIN-SUFFIX,angola.org
 DOMAIN-SUFFIX,angularjs.org
 DOMAIN-SUFFIX,aniscartujo.com
-DOMAIN-SUFFIX,annas-archive.in
-DOMAIN-SUFFIX,annas-archive.li
-DOMAIN-SUFFIX,annas-archive.org
-DOMAIN-SUFFIX,annas-archive.pm
-DOMAIN-SUFFIX,annas-archive.se
+DOMAIN-SUFFIX,annas-archive.gd
+DOMAIN-SUFFIX,annas-archive.gl
+DOMAIN-SUFFIX,annas-archive.pk
 DOMAIN-SUFFIX,anobii.com
 DOMAIN-SUFFIX,anonfiles.com
 DOMAIN-SUFFIX,anonymouse.org
@@ -236,6 +234,7 @@ DOMAIN-SUFFIX,appsocks.net
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,aptoide.com
+DOMAIN-SUFFIX,archive-it.org
 DOMAIN-SUFFIX,archive.fo
 DOMAIN-SUFFIX,archive.is
 DOMAIN-SUFFIX,archive.li
@@ -843,6 +842,7 @@ DOMAIN-SUFFIX,cpj.org
 DOMAIN-SUFFIX,cpu-monkey.com
 DOMAIN-SUFFIX,cq99.us
 DOMAIN-SUFFIX,crackle.com
+DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,crazypool.org
 DOMAIN-SUFFIX,crazyshit.com
 DOMAIN-SUFFIX,crbug.com
@@ -978,6 +978,7 @@ DOMAIN-SUFFIX,dmcdn.net
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dns.cloudflare.com
+DOMAIN-SUFFIX,dns.sb
 DOMAIN-SUFFIX,dns2go.com
 DOMAIN-SUFFIX,dnscrypt.org
 DOMAIN-SUFFIX,dnssec.net
@@ -988,6 +989,7 @@ DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dockerstatus.com
 DOMAIN-SUFFIX,docs.new
 DOMAIN-SUFFIX,documentingreality.com
+DOMAIN-SUFFIX,doh.sb
 DOMAIN-SUFFIX,dolc.de
 DOMAIN-SUFFIX,dolf.org.hk
 DOMAIN-SUFFIX,dongtaiwang.com
@@ -995,6 +997,7 @@ DOMAIN-SUFFIX,dongtaiwang.net
 DOMAIN-SUFFIX,doom9.org
 DOMAIN-SUFFIX,doosho.com
 DOMAIN-SUFFIX,doourbest.org
+DOMAIN-SUFFIX,dot.sb
 DOMAIN-SUFFIX,dotplane.com
 DOMAIN-SUFFIX,dotsub.com
 DOMAIN-SUFFIX,dotvpn.com
@@ -2307,7 +2310,6 @@ DOMAIN-SUFFIX,mediafreakcity.com
 DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,meee.com.tw
-DOMAIN-SUFFIX,meetup.com
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,mega.io
 DOMAIN-SUFFIX,mega.nz
@@ -2375,6 +2377,7 @@ DOMAIN-SUFFIX,mirrorbooks.com
 DOMAIN-SUFFIX,mirrormedia.mg
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,missav.ws
+DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,mitbbs.com
 DOMAIN-SUFFIX,miuipolska.pl
 DOMAIN-SUFFIX,mixero.com
@@ -2660,6 +2663,7 @@ DOMAIN-SUFFIX,orient-doll.com
 DOMAIN-SUFFIX,orientaldaily.com.my
 DOMAIN-SUFFIX,orn.jp
 DOMAIN-SUFFIX,osfoora.com
+DOMAIN-SUFFIX,osmand.net
 DOMAIN-SUFFIX,otcbtc.com
 DOMAIN-SUFFIX,otto.de
 DOMAIN-SUFFIX,ourdearamy.com
@@ -2880,7 +2884,6 @@ DOMAIN-SUFFIX,pursuestar.com
 DOMAIN-SUFFIX,putty.org
 DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,python.com.tw
-DOMAIN-SUFFIX,pytorch.org
 DOMAIN-SUFFIX,qbittorrent.org
 DOMAIN-SUFFIX,qgirl.com.tw
 DOMAIN-SUFFIX,qi-gong.me
@@ -3041,6 +3044,7 @@ DOMAIN-SUFFIX,savetibet.org
 DOMAIN-SUFFIX,savetibetstore.org
 DOMAIN-SUFFIX,saveuighur.org
 DOMAIN-SUFFIX,sbme.me
+DOMAIN-SUFFIX,sbti.unun.dev
 DOMAIN-SUFFIX,scache.vzw.com
 DOMAIN-SUFFIX,scache1.vzw.com
 DOMAIN-SUFFIX,scache2.vzw.com
@@ -3345,7 +3349,6 @@ DOMAIN-SUFFIX,tbsn.org
 DOMAIN-SUFFIX,tbssqh.org
 DOMAIN-SUFFIX,teachparentstech.org
 DOMAIN-SUFFIX,technews.tw
-DOMAIN-SUFFIX,techspot.com
 DOMAIN-SUFFIX,techviz.net
 DOMAIN-SUFFIX,teck.in
 DOMAIN-SUFFIX,teco-hk.org
@@ -3359,7 +3362,6 @@ DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telegram.space
 DOMAIN-SUFFIX,telegramdownload.com
-DOMAIN-SUFFIX,telegraph.co.uk
 DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,temu.com

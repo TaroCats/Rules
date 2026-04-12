@@ -184,11 +184,9 @@
 .angola.org
 .angularjs.org
 .aniscartujo.com
-.annas-archive.in
-.annas-archive.li
-.annas-archive.org
-.annas-archive.pm
-.annas-archive.se
+.annas-archive.gd
+.annas-archive.gl
+.annas-archive.pk
 .anobii.com
 .anonfiles.com
 .anonymouse.org
@@ -236,6 +234,7 @@
 .appspot.com
 .appsto.re
 .aptoide.com
+.archive-it.org
 .archive.fo
 .archive.is
 .archive.li
@@ -843,6 +842,7 @@
 .cpu-monkey.com
 .cq99.us
 .crackle.com
+.crashlytics.com
 .crazypool.org
 .crazyshit.com
 .crbug.com
@@ -978,6 +978,7 @@
 .dmhy.org
 .dmm.co.jp
 .dns.cloudflare.com
+.dns.sb
 .dns2go.com
 .dnscrypt.org
 .dnssec.net
@@ -988,6 +989,7 @@
 .dockerstatus.com
 .docs.new
 .documentingreality.com
+.doh.sb
 .dolc.de
 .dolf.org.hk
 .dongtaiwang.com
@@ -995,6 +997,7 @@
 .doom9.org
 .doosho.com
 .doourbest.org
+.dot.sb
 .dotplane.com
 .dotsub.com
 .dotvpn.com
@@ -2307,7 +2310,6 @@
 .mediawiki.org
 .medium.com
 .meee.com.tw
-.meetup.com
 .mega.co.nz
 .mega.io
 .mega.nz
@@ -2375,6 +2377,7 @@
 .mirrormedia.mg
 .missav.com
 .missav.ws
+.mistral.ai
 .mitbbs.com
 .miuipolska.pl
 .mixero.com
@@ -2660,6 +2663,7 @@
 .orientaldaily.com.my
 .orn.jp
 .osfoora.com
+.osmand.net
 .otcbtc.com
 .otto.de
 .ourdearamy.com
@@ -2880,7 +2884,6 @@
 .putty.org
 .pximg.net
 .python.com.tw
-.pytorch.org
 .qbittorrent.org
 .qgirl.com.tw
 .qi-gong.me
@@ -3041,6 +3044,7 @@
 .savetibetstore.org
 .saveuighur.org
 .sbme.me
+.sbti.unun.dev
 .scache.vzw.com
 .scache1.vzw.com
 .scache2.vzw.com
@@ -3345,7 +3349,6 @@
 .tbssqh.org
 .teachparentstech.org
 .technews.tw
-.techspot.com
 .techviz.net
 .teck.in
 .teco-hk.org
@@ -3359,7 +3362,6 @@
 .telegram.org
 .telegram.space
 .telegramdownload.com
-.telegraph.co.uk
 .telesco.pe
 .tellapart.com
 .temu.com
